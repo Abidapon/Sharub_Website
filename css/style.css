@@ -12,6 +12,9 @@
     text-decoration: none;
     transition: all .5s cubic-bezier(.37,1.14,.26,1.24);
 }
+.hidden-content {
+    display: none;
+}
 
 *::selection{
     background:var(--green);
